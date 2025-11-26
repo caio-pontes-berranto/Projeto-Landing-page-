@@ -1,26 +1,26 @@
-
-*{margin: 0px;
+* {
+     margin: 0px;
      margin: 0px;
 }
 
-#logo{
+#logo {
      margin-top: 50px;
      margin-left: 30px;
 }
 
-#titulo-menusuperior{   
+#titulo-menusuperior {
      margin-top: 50px;
      margin-left: 140px;
 }
 
-#texto-menusuperior{
+#texto-menusuperior {
 
      margin-top: 35px;
      margin-left: 140px;
-     
+
 }
 
-#menusuperior{
+#menusuperior {
      color: whitesmoke;
      background-color: #333;
      padding-bottom: 100PX;
@@ -28,125 +28,125 @@
      font: "inter"
 }
 
-#menuinformacional{
+#menuinformacional {
 
-    background-color:#eaece5;
-    display: grid;
-    grid-auto-flow: column;
-    columns: auto;
+     background-color: #eaece5;
+     display: grid;
+     grid-auto-flow: column;
+     columns: auto;
 }
 
-.icones{
-    margin: 50px 0px 50px 100px;
-    padding: 25px;
+.icones {
+     margin: 50px 0px 50px 100px;
+     padding: 25px;
 }
 
-.textoinformativo{
-   
-    display: flex;
-    align-items: center;
+.textoinformativo {
+
+     display: flex;
+     align-items: center;
 
 }
 
-#funcaovideo{
-    display: grid;
-    grid-auto-flow: column;
-    columns: auto;
-    
+#funcaovideo {
+     display: grid;
+     grid-auto-flow: column;
+     columns: auto;
+
 }
 
-#video{
+#video {
      margin: 50px 25px 50px 100px;
 
 }
 
-#titulovideo{
-   color: #247ba0;
+#titulovideo {
+     color: #247ba0;
 }
 
-#paragrafovideo{
-    color: #50514f;
+#paragrafovideo {
+     color: #50514f;
 }
 
-#videotexto{
+#videotexto {
      margin-top: 50px;
 }
 
-#carrossel{
-    
-    background-color: #247ba0; 
-    padding: 30px 30px 50px 30px;
+#carrossel {
+
+     background-color: #247ba0;
+     padding: 30px 30px 50px 30px;
 }
 
-#titulo-carrossel{
+#titulo-carrossel {
      color: white;
-     padding: 15px 0px 50px 0px; 
+     padding: 15px 0px 50px 0px;
      text-align: center;
      font-size: 15px;
 }
 
-#div-cards{
+#div-cards {
      display: grid;
      grid-auto-flow: column;
      columns: center;
 }
 
-.cards{
+.cards {
      columns: auto;
      margin-left: 10%;
-     margin-right: 20%;    
+     margin-right: 20%;
 }
 
-.Seta{
+.Seta {
      Cursor: Pointer;
      margin-top: 55px;
 }
 
-.Seta:hover{
+.Seta:hover {
      transform: translateY(-7px);
      transition-duration: 1s;
 }
 
-#Bruna{
-     display: none ;
+#Bruna {
+     display: none;
 }
 
-#Samanta{
+#Samanta {
      display: flex;
 }
 
-#Leonardo{
-   display: flex;
+#Leonardo {
+     display: flex;
 }
 
 
-#SetaEsquerda{
-     display: none ;
+#SetaEsquerda {
+     display: none;
      margin-top: 25%;
      margin-left: 25%;
      margin-right: 5%;
 }
 
-#SetaDireita{
-     display: flex; 
+#SetaDireita {
+     display: flex;
      margin-top: 15%;
      margin-left: 5%;
 }
 
-#Formulario{
-     
+#Formulario {
+
      background-color: #eaece5;
      text-align: center;
      padding: 30px 0px 30px 0px;
 }
 
-#TituloFormulario{
+#TituloFormulario {
      text-align: center;
      color: #383838;
      padding: 10px 0px 30px 0px;
-}    
+}
 
-input{
+input {
      margin: 10px;
      padding: 10px;
      width: 300px;
@@ -155,7 +155,7 @@ input{
      color: #383838;
 }
 
-button{
+button {
      margin: 20px;
      padding: 10px 50px 10px 50px;
      background-color: #247ba0;
@@ -166,8 +166,8 @@ button{
      font-weight: bolder;
 }
 
-button:hover{
-     transform:translateY(-10px);
+button:hover {
+     transform: translateY(-10px);
      transition-duration: 0.3s;
      background-color: #1b5872;
      box-shadow: 0px 30px 25px rgba(1, 11, 19, 0.2);
