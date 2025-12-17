@@ -1,31 +1,31 @@
 * {
      margin: 0px;
-     margin: 0px;
+     
 }
 
 #logo {
      margin-top: 50px;
-     margin-left: 30px;
+     margin-left: 50px;
 }
 
 #titulo-menusuperior {
      margin-top: 50px;
-     margin-left: 140px;
+     margin-left: 150px;
 }
 
 #texto-menusuperior {
 
      margin-top: 35px;
-     margin-left: 140px;
+     margin-left: 150px;
+     padding-bottom: 100px;
 
 }
 
 #menusuperior {
+
      color: whitesmoke;
-     background-color: #333;
-     padding-bottom: 100PX;
-     background-image: url("./imagens/fundo-menusuperior.svg");
-     font: "inter"
+     background-image: url(./imagens/fundo-menusuperior.svg );
+     
 }
 
 #menuinformacional {
@@ -57,6 +57,7 @@
 
 #video {
      margin: 50px 25px 50px 100px;
+     border-radius: 8px;
 
 }
 
@@ -65,11 +66,13 @@
 }
 
 #paragrafovideo {
-     color: #50514f;
+     color: #000000;
 }
 
 #videotexto {
      margin-top: 50px;
+    
+   
 }
 
 #carrossel {
